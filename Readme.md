@@ -5,3 +5,7 @@ git commit -m "commit" commit krna
 git branch -M main- renaming our branch to main
 git remote add origin git@github.com:HitanshuTyagi/Git_Rio.git-link our project to git
 git push origin main-push our repo -->
+
+git branch-to check in which branch we are currently working
+git log-shows all logs for commits that are done
+git diff-shows line by line change 
