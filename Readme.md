@@ -12,3 +12,8 @@ git diff-shows line by line change bw last commit and lines that has not been sa
 git branch tyagi-to make new branch
 git checkout tyagi-to work on a new branch
 git branch-to see all branches and see on which we are currently working
+
+i made a branch "tyagi" and then i made changes in code then i pushed it for mergingt it with main branch
+i made a pr which was then approved by main branch
+
+git reset a.java-file ko staging se remove krna
