@@ -3,6 +3,6 @@ let b="hitanshu"
 var c="tyagi"
 d=12
 e=15
-
+f=17
 console.log(a)
 console.table([a,b,c,d])
