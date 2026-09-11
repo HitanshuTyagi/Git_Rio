@@ -8,4 +8,7 @@ git push origin main-push our repo -->
 
 git branch-to check in which branch we are currently working
 git log-shows all logs for commits that are done
-git diff-shows line by line change 
+git diff-shows line by line change bw last commit and lines that has not been saved yet
+git branch tyagi-to make new branch
+git checkout tyagi-to work on a new branch
+git branch-to see all branches and see on which we are currently working
